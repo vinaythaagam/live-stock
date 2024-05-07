@@ -1,4 +1,4 @@
-# LiveStock
+# LiveStock1
 
 LiveStock is a rudimentary stock trading website built as the course project for CSE 305: Principles of Database Systems taken at Stony Brook University in Spring 2016. This project was built by our team of three people. Below are some of the project specifications, given on our professor's [website](http://www3.cs.stonybrook.edu/~sas/courses/cse305/spr16/project/main.html).
 
